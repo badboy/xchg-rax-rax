@@ -3,4 +3,3 @@
 	global main
 
 main:
-	xor eax, eax
