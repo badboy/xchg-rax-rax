@@ -43,3 +43,7 @@ rbp            0x1                 0x1
 | run | r | Run the program until a breakpoint or end |
 | info registers | i r | Show values of all registers |
 | continue | c | Continue running the program |
+
+## Resources
+
+* [x86 and amd64 instruction reference](https://www.felixcloutier.com/x86/)
